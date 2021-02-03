@@ -1,2 +1,0 @@
-<?php
-$nazovservera = "Chicken-Craft";
